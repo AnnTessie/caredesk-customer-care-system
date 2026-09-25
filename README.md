@@ -37,3 +37,4 @@ I worked on the system structure, dashboard design, user experience, customer-se
 ### Admin Dashboard
 
 A dashboard preview of the CareDesk customer care management system.
+![CareDesk Customer Care Dashboard](caredesk-dashboard.JPG)
